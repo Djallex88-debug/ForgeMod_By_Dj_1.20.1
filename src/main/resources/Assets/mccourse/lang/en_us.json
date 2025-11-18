@@ -2,7 +2,8 @@
   "item.mccourse.alexandrite": "Alexandrite",
   "item.mccourse.raw_alexandrite": "Raw Alexandrite",
 
-  "bloc.mccourse.alexandrite_block" : "Alexandrite Block"
+  "block.mccourse.alexandriteblock" : "Alexandrite Block",
+  "block.mccourse.rawalexandriteblock" : "Raw Alexandrite Block"
 
 
 
