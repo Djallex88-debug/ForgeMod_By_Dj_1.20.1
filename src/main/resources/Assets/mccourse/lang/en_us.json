@@ -1,4 +1,12 @@
 {
   "item.mccourse.alexandrite": "Alexandrite",
-  "item.mccourse.raw_alexandrite": "Raw Alexandrite"
+  "item.mccourse.raw_alexandrite": "Raw Alexandrite",
+
+  "bloc.mccourse.alexandrite_block" : "Alexandrite Block"
+
+
+
+
+
+
 }
