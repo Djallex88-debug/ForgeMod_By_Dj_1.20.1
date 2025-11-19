@@ -2,6 +2,7 @@ package net.djallex.mccourse;
 
 import com.mojang.logging.LogUtils;
 import net.djallex.mccourse.block.ModBlocks;
+import net.djallex.mccourse.item.ModCreativeModeTabs;
 import net.djallex.mccourse.item.ModItems;
 import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraftforge.api.distmarker.Dist;
@@ -33,7 +34,7 @@ public class MCCourse
 
         ModItems.register(modEventBus);
         ModBlocks.register(modEventBus);
-
+        ModCreativeModeTabs.register(modEventBus);
 
 
 
