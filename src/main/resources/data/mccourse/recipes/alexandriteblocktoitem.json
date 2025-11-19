@@ -1,7 +1,8 @@
 {
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
-  "ingredients": [{"item": "mccourse: alexandrite_block"}],
-  "result": {"item": "mccourse:alexandrite", "count": "9"}
-
+  "group": "alexandrite",
+  "ingredients": [{"item": "mccourse:alexandriteblock"}],
+  "result": {"item": "mccourse:alexandrite", "count": 9}
 }
+
