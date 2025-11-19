@@ -3,7 +3,10 @@
   "item.mccourse.raw_alexandrite": "Raw Alexandrite",
 
   "block.mccourse.alexandriteblock" : "Alexandrite Block",
-  "block.mccourse.rawalexandriteblock" : "Raw Alexandrite Block"
+  "block.mccourse.rawalexandriteblock" : "Raw Alexandrite Block",
+  "block.mccourse.alexandriteore" : "Alexandrite Ore",
+  "block.mccourse.deepslatealexandriteore" : "Deepslate Alexandrite Ore",
+  "block.mccourse.netheralexandriteore" : "Nether Alexandrite Ore"
 
 
 

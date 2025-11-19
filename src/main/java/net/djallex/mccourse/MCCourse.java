@@ -68,6 +68,9 @@ public class MCCourse
         {
             event.accept(ModBlocks.ALEXANDRITE_BLOCK);
             event.accept(ModBlocks.RAW_ALEXANDRITE_BLOCK);
+            event.accept(ModBlocks.ORE_ALEXANDRITE_BLOCK);
+            event.accept(ModBlocks.DEEPORE_ALEXANDRITE_BLOCK);
+            event.accept(ModBlocks.NETHERORE_ALEXANDRITE_BLOCK);
         }
     }
 

@@ -21,7 +21,17 @@ public class ModBlocks {
 
 
         public static final RegistryObject<Block> ALEXANDRITE_BLOCK = registerBlock("alexandriteblock", () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK)) );
-    public static final RegistryObject<Block> RAW_ALEXANDRITE_BLOCK = registerBlock("rawalexandriteblock", () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK)) );
+        public static final RegistryObject<Block> RAW_ALEXANDRITE_BLOCK = registerBlock("rawalexandriteblock", () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK)) );
+        public static final RegistryObject<Block> ORE_ALEXANDRITE_BLOCK = registerBlock("alexandriteore", () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_ORE)) );
+        public static final RegistryObject<Block> DEEPORE_ALEXANDRITE_BLOCK = registerBlock("deepslatealexandriteore", () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_ORE)) );
+    public static final RegistryObject<Block> NETHERORE_ALEXANDRITE_BLOCK = registerBlock("netheralexandriteore", () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_ORE)) );
+
+
+
+
+
+
+
 
     private static <T extends Block> RegistryObject<Item> registerBlockItem(String name, RegistryObject<T> block) {
         return ModItems.ITEMS.register(name, () -> new BlockItem(block.get(), new Item.Properties()));
