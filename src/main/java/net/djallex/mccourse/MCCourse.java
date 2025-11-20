@@ -34,6 +34,7 @@ public class MCCourse
 
         ModItems.register(modEventBus);
         ModBlocks.register(modEventBus);
+
         ModCreativeModeTabs.register(modEventBus);
 
 

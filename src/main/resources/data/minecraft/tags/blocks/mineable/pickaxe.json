@@ -1,7 +1,13 @@
 {
 
   "replace": false,
-  "values": ["mccourse:alexandriteblock", "mccourse: rawalexandriteblock", "deepslatealexandriteore", "netheralexandriteore", "alexandriteore", "endstonealexandriteore"]
+  "values": ["mccourse:alexandriteblock",
+    "mccourse:rawalexandriteblock",
+    "mccourse:deepslatealexandriteore",
+    "mccourse:netheralexandriteore",
+    "mccourse:alexandriteore",
+    "mccourse:endstonealexandriteore"]
 
 
 }
+
